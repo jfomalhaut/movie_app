@@ -1,0 +1,2 @@
+*{margin:0;padding:0;list-style:none;box-sizing:border-box}.movies{display:grid;width:1000px;margin:100px auto;grid-gap:20px;grid-template-columns:repeat(4,1fr)}.movies .movies_movie,img{width:100%}ul{display:flex;flex-wrap:wrap;margin:10px 0}li{color:#666;margin-right:5px}li:last-child{margin:0}p{color:#666}
+/*# sourceMappingURL=main.780cc428.chunk.css.map */
